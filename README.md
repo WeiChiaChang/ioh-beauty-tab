@@ -1,10 +1,3 @@
-# AdByeBye 廣告掰掰外掛
+# IOMatch Chrome  外掛分頁
 
-# What are extensions?
-
-Extensions are small software programs that can modify and enhance the functionality of the Chrome browser. You write them using web technologies such as HTML, JavaScript, and CSS.
-
-# 延伸閱讀
-1. [What are extensions?](https://developer.chrome.com/extensions)
-2. [大兜的 Chrome Extension 學習筆記](https://tonytonyjan.net/2012/05/25/get-start-with-chrome-extension/)
-3. [window.onload vs document.onload](http://stackoverflow.com/questions/588040/window-onload-vs-document-onload)
+此外掛程式原來源自[kdchang](https://github.com/kdchang)在 Hahow 上面的課程，該[課程](https://hahow.in/courses/57d60701ed63880700da234c)教授極為出色，對於想了解 JavaScript 應用的人非常受用，為了進一步熟悉該練習於是自行撰寫了[爬蟲](https://github.com/WeiChiaChang/ioh-talks-crawler)去爬 IOH 的公開資料，同時希望能做到另外一種不一樣的應用。
