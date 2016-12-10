@@ -1,0 +1,22 @@
+{
+  "name": "ioh-beauty-tab",
+  "description": "BeautyTab extensions",
+  "main": "index.js",
+  "authors": [
+    "w2sw2sw2s"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/WeiChiaChang/ioh-beauty-tab.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "dist/bower_components/"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}
