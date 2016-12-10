@@ -1,15 +1,11 @@
 {
-    "name": "BeautyTab",
+    "name": "IOMatch",
     "version": "0.0.1",
     "manifest_version": 2,
-    "description": "BeautyTab",
-    "short_name": "BeautyTab",  
+    "description": "IOMatch",
+    "short_name": "IOMatch",  
     "icons": {
-        "16": "./img/icon-16.png",
-        "19": "./img/icon-19.png",
-        "38": "./img/icon-38.png",
-        "128": "./img/icon-128.png",
-        "300": "./img/icon-300.png"
+        "144": "./img/icon-144.png"
     },
     "background": {
         "scripts": ["./js/bundle.js"]
